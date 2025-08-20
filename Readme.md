@@ -11,8 +11,7 @@ Este repositorio cubre:
 - 05. Servicios de Red - En clase explicaremos los conceptos que se indican.
 - 06. SQL: modelo de datos y sentencias básicas: Instalar PostreSQL, Importar la base de datos, y revisar la teoría antes de que empecemos!!.
 
-![image]("./images/planificacion.png")
-
+<img src="./images/logo.png" width="100">
 
 Disfruta de este curso 0!!! 
 
