@@ -18,3 +18,18 @@ cat texto.txt | grep -i error | wc -l
 ```
 sort < nombres.txt | uniq
 ```
+
+## Ejercicio 5 – Primeras líneas
+```
+cat log.txt | head -5
+```
+
+## Ejercicio 6 – Últimas líneas
+```
+cat log.txt | tail -3 > ultimos.txt
+```
+
+## Ejercicio 7 – Combinando comandos
+```
+
+```
