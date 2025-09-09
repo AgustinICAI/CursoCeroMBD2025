@@ -31,5 +31,5 @@ cat log.txt | tail -3 > ultimos.txt
 
 ## Ejercicio 7 – Combinando comandos
 ```
-
+awk '{ print length, $0 }' documento.txt | sort -nr | head -n 2 | cut -d" " -f2-
 ```
